@@ -1,0 +1,17 @@
+{
+  "bat": "D:\\Users\\Nicolas\\Desktop\\BEAST\\bat\\beast.bat",
+  "mode": "CPU",
+  "threads": 16,
+  "resume": false,
+  "overwrite": false,
+  "working": true,
+  "extra": "",
+  "auto_pause": true,
+  "pause_delay": 10,
+  "auto_resume": true,
+  "resume_minutes": 15,
+  "keyboard": true,
+  "continue_on_error": true,
+  "beep": true,
+  "queue": []
+}
